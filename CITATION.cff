@@ -5,6 +5,8 @@ cff-version: 1.2.0
 title: Multi-domain calibration
 message: "Naive calibration and model selection with average ECE"
 date-released: 2022-06-18
+doi: 10.5281/zenodo.6659870
+url: https://github.com/Hinslau/Multidomain-calibration.git
 authors:
   - given-names: Anxian
     family-names: Liu
