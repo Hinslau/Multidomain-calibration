@@ -1,0 +1,110 @@
+DataSet1
+ECE_Over_training_domains_before_calibration: {'ECE on domain1': 0.0009, 'ECE on domain2': 0.002, 'ECE on domain3': 0.0025, 'ECE on domain4': 0.0}
+ECE_Over_training_domains_after_calibration: {'ECE on domain1': 0.0003, 'ECE on domain2': 0.0023, 'ECE on domain3': 0.0004, 'ECE on domain4': 0.0}
+ACC_Over_unseen_domain_before_calibration: {'ACC on domain11': 0.0, 'ACC on domain12': 1.0, 'ACC on domain13': 1.0, 'ACC on domain14': 0.0422, 'ACC on domain15': 0.2732}
+ACC_Over_unseen_domain_after_calibration: {'ACC on domain11': 0.0002, 'ACC on domain12': 0.9996, 'ACC on domain13': 1.0, 'ACC on domain14': 0.075, 'ACC on domain15': 0.4278}
+Average_ECE_Over_training_domains_before_calibration: 0.00135
+Average_ECE_Over_training_domains_after_calibration: 0.00075
+Average_ACC_Over_unseen_domains_before_calibration: 0.46308
+Average_ACC_Over_unseen_domains_after_calibration: 0.5005200000000001
+ECE_over_test_set_before_calibration: 0.0011
+ECE_over_test_set_after_calibration: 0.0008
+DataSet10
+ECE_Over_training_domains_before_calibration: {'ECE on domain1': 0.0115, 'ECE on domain2': 0.0051, 'ECE on domain3': 0.0055, 'ECE on domain4': 0.0}
+ECE_Over_training_domains_after_calibration: {'ECE on domain1': 0.0053, 'ECE on domain2': 0.0064, 'ECE on domain3': 0.0084, 'ECE on domain4': 0.0001}
+ACC_Over_unseen_domain_before_calibration: {'ACC on domain11': 0.9956, 'ACC on domain12': 1.0, 'ACC on domain13': 0.0, 'ACC on domain14': 0.0, 'ACC on domain15': 0.9986}
+ACC_Over_unseen_domain_after_calibration: {'ACC on domain11': 0.9938, 'ACC on domain12': 0.9998, 'ACC on domain13': 0.1004, 'ACC on domain14': 0.0068, 'ACC on domain15': 0.9972}
+Average_ECE_Over_training_domains_before_calibration: 0.005525
+Average_ECE_Over_training_domains_after_calibration: 0.00505
+Average_ACC_Over_unseen_domains_before_calibration: 0.59884
+Average_ACC_Over_unseen_domains_after_calibration: 0.6195999999999999
+ECE_over_test_set_before_calibration: 0.0046
+ECE_over_test_set_after_calibration: 0.004
+DataSet2
+ECE_Over_training_domains_before_calibration: {'ECE on domain1': 0.0001, 'ECE on domain2': 0.0002, 'ECE on domain3': 0.0008, 'ECE on domain4': 0.0012}
+ECE_Over_training_domains_after_calibration: {'ECE on domain1': 0.0, 'ECE on domain2': 0.0001, 'ECE on domain3': 0.0003, 'ECE on domain4': 0.0016}
+ACC_Over_unseen_domain_before_calibration: {'ACC on domain11': 1.0, 'ACC on domain12': 0.8934, 'ACC on domain13': 0.0014, 'ACC on domain14': 1.0, 'ACC on domain15': 0.0}
+ACC_Over_unseen_domain_after_calibration: {'ACC on domain11': 0.9996, 'ACC on domain12': 0.9232, 'ACC on domain13': 0.0256, 'ACC on domain14': 1.0, 'ACC on domain15': 0.0046}
+Average_ECE_Over_training_domains_before_calibration: 0.000575
+Average_ECE_Over_training_domains_after_calibration: 0.0005
+Average_ACC_Over_unseen_domains_before_calibration: 0.57896
+Average_ACC_Over_unseen_domains_after_calibration: 0.5906
+ECE_over_test_set_before_calibration: 0.0005
+ECE_over_test_set_after_calibration: 0.0005
+DataSet3
+ECE_Over_training_domains_before_calibration: {'ECE on domain1': 0.001, 'ECE on domain2': 0.0003, 'ECE on domain3': 0.0, 'ECE on domain4': 0.0003}
+ECE_Over_training_domains_after_calibration: {'ECE on domain1': 0.0009, 'ECE on domain2': 0.0001, 'ECE on domain3': 0.0002, 'ECE on domain4': 0.0005}
+ACC_Over_unseen_domain_before_calibration: {'ACC on domain11': 0.1002, 'ACC on domain12': 1.0, 'ACC on domain13': 0.9978, 'ACC on domain14': 1.0, 'ACC on domain15': 1.0}
+ACC_Over_unseen_domain_after_calibration: {'ACC on domain11': 0.2126, 'ACC on domain12': 0.9998, 'ACC on domain13': 0.998, 'ACC on domain14': 1.0, 'ACC on domain15': 1.0}
+Average_ECE_Over_training_domains_before_calibration: 0.00039999999999999996
+Average_ECE_Over_training_domains_after_calibration: 0.00042500000000000003
+Average_ACC_Over_unseen_domains_before_calibration: 0.8196
+Average_ACC_Over_unseen_domains_after_calibration: 0.8420799999999999
+ECE_over_test_set_before_calibration: 0.0004
+ECE_over_test_set_after_calibration: 0.0001
+DataSet4
+ECE_Over_training_domains_before_calibration: {'ECE on domain1': 0.0015, 'ECE on domain2': 0.0, 'ECE on domain3': 0.0028, 'ECE on domain4': 0.0024}
+ECE_Over_training_domains_after_calibration: {'ECE on domain1': 0.0047, 'ECE on domain2': 0.0, 'ECE on domain3': 0.0025, 'ECE on domain4': 0.0026}
+ACC_Over_unseen_domain_before_calibration: {'ACC on domain11': 0.799, 'ACC on domain12': 0.6892, 'ACC on domain13': 1.0, 'ACC on domain14': 1.0, 'ACC on domain15': 1.0}
+ACC_Over_unseen_domain_after_calibration: {'ACC on domain11': 0.8574, 'ACC on domain12': 0.7568, 'ACC on domain13': 1.0, 'ACC on domain14': 0.9986, 'ACC on domain15': 1.0}
+Average_ECE_Over_training_domains_before_calibration: 0.0016749999999999998
+Average_ECE_Over_training_domains_after_calibration: 0.00245
+Average_ACC_Over_unseen_domains_before_calibration: 0.89764
+Average_ACC_Over_unseen_domains_after_calibration: 0.92256
+ECE_over_test_set_before_calibration: 0.0017
+ECE_over_test_set_after_calibration: 0.0035
+DataSet5
+ECE_Over_training_domains_before_calibration: {'ECE on domain1': 0.0, 'ECE on domain2': 0.0182, 'ECE on domain3': 0.0085, 'ECE on domain4': 0.0235}
+ECE_Over_training_domains_after_calibration: {'ECE on domain1': 0.0004, 'ECE on domain2': 0.0116, 'ECE on domain3': 0.0065, 'ECE on domain4': 0.0211}
+ACC_Over_unseen_domain_before_calibration: {'ACC on domain11': 0.0, 'ACC on domain12': 1.0, 'ACC on domain13': 1.0, 'ACC on domain14': 1.0, 'ACC on domain15': 0.1358}
+ACC_Over_unseen_domain_after_calibration: {'ACC on domain11': 0.075, 'ACC on domain12': 1.0, 'ACC on domain13': 0.9994, 'ACC on domain14': 1.0, 'ACC on domain15': 0.4062}
+Average_ECE_Over_training_domains_before_calibration: 0.01255
+Average_ECE_Over_training_domains_after_calibration: 0.009899999999999999
+Average_ACC_Over_unseen_domains_before_calibration: 0.62716
+Average_ACC_Over_unseen_domains_after_calibration: 0.69612
+ECE_over_test_set_before_calibration: 0.0116
+ECE_over_test_set_after_calibration: 0.0075
+DataSet6
+ECE_Over_training_domains_before_calibration: {'ECE on domain1': 0.0013, 'ECE on domain2': 0.0, 'ECE on domain3': 0.0023, 'ECE on domain4': 0.0015}
+ECE_Over_training_domains_after_calibration: {'ECE on domain1': 0.001, 'ECE on domain2': 0.0, 'ECE on domain3': 0.0019, 'ECE on domain4': 0.0008}
+ACC_Over_unseen_domain_before_calibration: {'ACC on domain11': 0.9978, 'ACC on domain12': 0.9946, 'ACC on domain13': 0.0004, 'ACC on domain14': 0.0564, 'ACC on domain15': 0.9994}
+ACC_Over_unseen_domain_after_calibration: {'ACC on domain11': 0.9984, 'ACC on domain12': 0.988, 'ACC on domain13': 0.002, 'ACC on domain14': 0.0732, 'ACC on domain15': 0.9986}
+Average_ECE_Over_training_domains_before_calibration: 0.001275
+Average_ECE_Over_training_domains_after_calibration: 0.0009249999999999999
+Average_ACC_Over_unseen_domains_before_calibration: 0.60972
+Average_ACC_Over_unseen_domains_after_calibration: 0.61204
+ECE_over_test_set_before_calibration: 0.0014
+ECE_over_test_set_after_calibration: 0.0007
+DataSet7
+ECE_Over_training_domains_before_calibration: {'ECE on domain1': 0.0013, 'ECE on domain2': 0.0007, 'ECE on domain3': 0.0006, 'ECE on domain4': 0.0004}
+ECE_Over_training_domains_after_calibration: {'ECE on domain1': 0.0012, 'ECE on domain2': 0.0003, 'ECE on domain3': 0.0005, 'ECE on domain4': 0.0003}
+ACC_Over_unseen_domain_before_calibration: {'ACC on domain11': 0.5556, 'ACC on domain12': 1.0, 'ACC on domain13': 0.9918, 'ACC on domain14': 0.0, 'ACC on domain15': 0.9994}
+ACC_Over_unseen_domain_after_calibration: {'ACC on domain11': 0.5792, 'ACC on domain12': 1.0, 'ACC on domain13': 0.9894, 'ACC on domain14': 0.0, 'ACC on domain15': 0.9992}
+Average_ECE_Over_training_domains_before_calibration: 0.00075
+Average_ECE_Over_training_domains_after_calibration: 0.000575
+Average_ACC_Over_unseen_domains_before_calibration: 0.70936
+Average_ACC_Over_unseen_domains_after_calibration: 0.71356
+ECE_over_test_set_before_calibration: 0.0008
+ECE_over_test_set_after_calibration: 0.0007
+DataSet8
+ECE_Over_training_domains_before_calibration: {'ECE on domain1': 0.0012, 'ECE on domain2': 0.0, 'ECE on domain3': 0.0009, 'ECE on domain4': 0.0007}
+ECE_Over_training_domains_after_calibration: {'ECE on domain1': 0.0, 'ECE on domain2': 0.0, 'ECE on domain3': 0.0011, 'ECE on domain4': 0.0004}
+ACC_Over_unseen_domain_before_calibration: {'ACC on domain11': 0.954, 'ACC on domain12': 0.0, 'ACC on domain13': 1.0, 'ACC on domain14': 0.3774, 'ACC on domain15': 1.0}
+ACC_Over_unseen_domain_after_calibration: {'ACC on domain11': 0.9244, 'ACC on domain12': 0.0, 'ACC on domain13': 1.0, 'ACC on domain14': 0.5676, 'ACC on domain15': 1.0}
+Average_ECE_Over_training_domains_before_calibration: 0.0007
+Average_ECE_Over_training_domains_after_calibration: 0.000375
+Average_ACC_Over_unseen_domains_before_calibration: 0.66628
+Average_ACC_Over_unseen_domains_after_calibration: 0.6984
+ECE_over_test_set_before_calibration: 0.0008
+ECE_over_test_set_after_calibration: 0.0003
+DataSet9
+ECE_Over_training_domains_before_calibration: {'ECE on domain1': 0.0002, 'ECE on domain2': 0.0052, 'ECE on domain3': 0.0004, 'ECE on domain4': 0.0159}
+ECE_Over_training_domains_after_calibration: {'ECE on domain1': 0.0009, 'ECE on domain2': 0.0032, 'ECE on domain3': 0.0007, 'ECE on domain4': 0.0087}
+ACC_Over_unseen_domain_before_calibration: {'ACC on domain11': 0.0004, 'ACC on domain12': 0.999, 'ACC on domain13': 1.0, 'ACC on domain14': 0.9992, 'ACC on domain15': 0.2888}
+ACC_Over_unseen_domain_after_calibration: {'ACC on domain11': 0.0152, 'ACC on domain12': 0.9976, 'ACC on domain13': 1.0, 'ACC on domain14': 0.9978, 'ACC on domain15': 0.4}
+Average_ECE_Over_training_domains_before_calibration: 0.005425
+Average_ECE_Over_training_domains_after_calibration: 0.003375
+Average_ACC_Over_unseen_domains_before_calibration: 0.6574800000000001
+Average_ACC_Over_unseen_domains_after_calibration: 0.6821200000000001
+ECE_over_test_set_before_calibration: 0.0038
+ECE_over_test_set_after_calibration: 0.0041
