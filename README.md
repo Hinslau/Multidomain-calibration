@@ -1,6 +1,10 @@
-# Multidomain-calibration
+# Multi-domain calibration
+
+## About the code
 The source code of calibration_module: https://github.com/ethen8181/machine-learning
+
 The main package we used to process the data and train the model: Keras, sklearn, pandas, numpy, scipy.
+
 Python version: 3.8
 
 ## References:
