@@ -3,9 +3,7 @@ The source code of calibration_module: https://github.com/ethen8181/machine-lear
 The main package we used to process the data and train the model: Keras, sklearn, pandas, numpy, scipy.
 Python version: 3.8
 
-Reference :
-References
-
+## References:
 [1] Qiao, F., & Peng, X. (2021). Uncertainty-guided Model Generalization to Unseen Domains. 2021 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 6786–6796. https://doi.org/10.1109/CVPR46437.2021.00672
 
 [2] Koh, P. W., Sagawa, S., Marklund, H., Xie, S. M., Zhang, M., Balsubramani, A., Hu, W., Yasunaga, M., Phillips, R. L., Gao, I., Lee, T., David, E., Stavness, I., Guo, W., Earnshaw, B. A., Haque, I. S., Beery, S., Leskovec, J., Kundaje, A., . . . Liang, P. (2021). WILDS: A Benchmark of in-the-Wild Distribution Shifts. arXiv:2012.07421 [cs].
