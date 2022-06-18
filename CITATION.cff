@@ -5,6 +5,7 @@ cff-version: 1.2.0
 title: Multi-domain calibration
 message: "Naive calibration and model selection with average ECE"
 date-released: 2022-06-18
+type: software
 authors:
   - given-names: Anxian
     family-names: Liu
